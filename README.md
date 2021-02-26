@@ -7,7 +7,8 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 🚀 Currently learning everything.<br>
 ✌  User centered design.<br>
 💻 Build solutions creating rewarding results.<br>
-🔥 Front-End is everything.
+🔥 Deliver the best experiences based on web technologies.<br>
+😬 Front-End is everything.
 
 ## Connect with me:
 [website]: https://codeSTACKr.com
