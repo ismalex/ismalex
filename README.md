@@ -11,7 +11,9 @@
 ```
 
 Hello, Hola 
-I'm Alex my motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process.  ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
+I'm Alex a creative developer creating modern, visually beautiful, accessible and user friendly websites with the latest technologies. I specialize in bringing great designs to life with tools like React and JavaScript animation libraries.
+Using my skills, my goal is always to create products that deliver pixel-perfect performant experiences, employing good practices with a focus on security, performance and usability.
+
 
 ## Values
 🚀 Beginner's mindset and curiosity.<br>
