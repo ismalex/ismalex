@@ -5,7 +5,6 @@
    “data” : 
      { 
       "Linkedin" : "https://linkedin.com/in/ismalex/", 
-      "Resume"   : "https://veromoreno.github.io/",
      }
  }
 ```
@@ -17,10 +16,10 @@ Using my skills, my goal is always to create products that deliver pixel-perfect
 
 ## Values
 🚀 Beginner's mindset and curiosity.<br>
-🌱 Currently learning everything.<br>
+🌱 Currently learning Vue.<br>
 💻 Build pixel perfect solutions creating rewarding results.<br>
 🔥 Deliver the best experiences based on web technologies.<br>
-✌  User centered design.<br>
+✌ User centered design.<br>
 ⚡ Front-End is everything.
 
 ## Connect with me:
