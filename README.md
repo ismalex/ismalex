@@ -1,6 +1,7 @@
 # Alex Aragón — @ismalex
 ```shell
- { “name” : “Alex Aragon Almeida.”,
+ { 
+   “name” : “Alex Aragon Almeida.”,
    “role” : “FrontEnd Dev”,
    “data” : 
      { 
