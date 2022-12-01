@@ -15,7 +15,7 @@ I'm Alex a creative developer creating modern, visually beautiful, accessible an
 Using my skills, my goal is always to create products that deliver pixel-perfect performant experiences, employing good practices with a focus on security, performance and usability.
 
 
-## Values
+## ⚡ Values
 🚀 Beginner's mindset and curiosity.<br>
 🌱 Currently learning Vue.<br>
 💻 Build pixel perfect solutions creating rewarding results.<br>
@@ -26,6 +26,8 @@ Using my skills, my goal is always to create products that deliver pixel-perfect
 ## Connect with me:
 [linkedin]: https://linkedin.com/in/ismalex/
 [<img align="left" alt=" ismalex | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismalex) 
 <br>
 
 <h3> Languages and Tools: </h3>
