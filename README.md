@@ -17,15 +17,12 @@ Using my skills, my goal is always to create products that deliver pixel-perfect
 
 ## ⚡ Values
 🚀 Beginner's mindset and curiosity.<br>
-🌱 Currently learning Vue.<br>
+🌱 Currently learning Next.js.<br>
 💻 Build pixel perfect solutions creating rewarding results.<br>
 🔥 Deliver the best experiences based on web technologies.<br>
 ✌ User centered design.<br>
-⚡ Front-End is everything.
+✨ Front-End is everything.
 
-## Connect with me:
-[linkedin]: https://linkedin.com/in/ismalex/
-[<img align="left" alt=" ismalex | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismalex) 
 <br>
@@ -41,8 +38,9 @@ Using my skills, my goal is always to create products that deliver pixel-perfect
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-   <img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=for-the-badge&logo=Azure DevOps&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=for-the-badge&logo=Azure DevOps&logoColor=white">
+ ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </p>
 
 ---
