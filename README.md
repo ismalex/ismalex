@@ -1,8 +1,8 @@
-# Alex Aragón — @ismalex
+# Alex Aragón 🖖 — @ismalex
 ```shell
  { 
    “name” : “Alex Aragon Almeida.”,
-   “role” : “FrontEnd Dev”,
+   “role” : “Front-End Dev”,
    “data” : 
      { 
       "Linkedin" : "https://linkedin.com/in/ismalex/", 
@@ -18,10 +18,9 @@ Using my skills, my goal is always to create products that deliver pixel-perfect
 ## ⚡ Values
 🚀 Beginner's mindset and curiosity.<br>
 🌱 Currently learning Next.js.<br>
-💻 Build pixel perfect solutions creating rewarding results.<br>
-🔥 Deliver the best experiences based on web technologies.<br>
-✌ User centered design.<br>
-✨ Front-End is everything.
+ ✌ User centered design.<br>
+🔥 Build pixel perfect solutions delivering the best experiences.<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismalex) 
