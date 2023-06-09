@@ -1,4 +1,4 @@
-# Alex Aragón 🖖 — @ismalex
+# Alex Aragón 🥷 — @ismalex
 ```shell
  { 
    “name” : “Alex Aragon Almeida.”,
@@ -17,9 +17,9 @@ Using my skills, my goal is always to create products that deliver pixel-perfect
 
 ## ⚡ Values
 🚀 Beginner's mindset and curiosity.<br>
-🌱 Currently learning Next.js.<br>
- ✌ User centered design.<br>
+✌ User centered design.<br>
 🔥 Build pixel perfect solutions delivering the best experiences.<br>
+🌱 Currently learning Next.js.<br>
 
 
 ## 🌐 Socials:
@@ -35,7 +35,7 @@ Using my skills, my goal is always to create products that deliver pixel-perfect
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next-white?style=for-the-badge&logo=next.js&logoColor=black">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
