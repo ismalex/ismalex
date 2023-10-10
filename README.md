@@ -1,4 +1,4 @@
-# Alex Aragón 🥷 — @ismalex
+# Alex Aragón — @ismalex
 ```shell
  { 
    “name” : “Alex Aragon Almeida.”,
