@@ -27,7 +27,7 @@ I specialize in building responsive, accessible, and visually striking pixel-per
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismalex) 
 <br>
 
-## 🛠️ Languages and Tools:
+## 🧰 Languages and Tools:
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
