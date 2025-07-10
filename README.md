@@ -1,4 +1,4 @@
-# Alex Aragón — @ismalex
+@ismalex
 ```shell
  { 
    “name” : “Alex Aragon Almeida.”,
@@ -11,8 +11,9 @@
 ```
 
 Hello, Hola 
-I'm Alex a creative developer creating modern, visually beautiful, accessible and user friendly websites with the latest technologies. I specialize in bringing great designs to life with tools like React and JavaScript animation libraries.
-Using my skills, my goal is always to create products that deliver pixel-perfect performant experiences, employing good practices with a focus on security, performance and usability.
+I’m Alex — a front-end developer passionate about bringing great design to life through technologies like React, GSAP, and other modern JavaScript tools.
+
+I specialize in building responsive, accessible, and visually striking pixel-perfect UIs, with  a strong focus on performance, usability, and security. Creating smooth and impactful digital products that users love.
 
 
 ## ⚡ Values
