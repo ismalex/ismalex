@@ -40,9 +40,7 @@ I specialize in building responsive, accessible, and visually striking pixel-per
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-363636.svg?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure DevOps-white?style=for-the-badge&logo=Azure DevOps&logoColor=0078D7">
-  
+  <img src="https://img.shields.io/badge/figma-363636.svg?style=for-the-badge&logo=figma&logoColor=white">  
 </p>
 
 ---
